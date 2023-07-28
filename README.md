@@ -2,7 +2,7 @@
 
 ### 开发环境
 
-- Spring + MySQL + Mybatis + SpringSecurity + Thymeleaf + Tomcat
+- Spring + Mybatis + SpringSecurity + Thymeleaf + Tomcat
 
 ### 项目功能
 
